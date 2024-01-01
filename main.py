@@ -1,8 +1,9 @@
 import random
 import hangman_art
+import word_list
 
 print(hangman_art.logo)
-word_list = ['bangla', 'english', 'physics', 'chemistry', 'math']
+word_list = word_list.words
 chosen_word = random.choice(word_list)
 print(f"Guess word is: {chosen_word}")
 
@@ -43,4 +44,4 @@ while not end_of_game:
 #     if letter == guess:
 #         print("Right")
 #     else:
-#         print("Worng")
+#         print("Wrong")

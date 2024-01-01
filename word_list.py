@@ -1,0 +1,1 @@
+words = ['bangla', 'english', 'physics', 'chemistry', 'math', 'python', 'programming', 'bangladesh', 'canada', 'baboon', 'nobel', 'poem', 'america', 'london', 'dollar', 'taka', 'rubel', 'dinar', 'website', 'nothing', 'something']
